@@ -1,3 +1,4 @@
 ## Module 1
 2. [Intro to OO](https://youtu.be/kxYG4xo7Lm8)
 3. [Object Oriented Relationships, One:Many, Single Source of Truth](https://youtu.be/bGxs0_5_goE) | [Code](https://github.com/learn-co-students/web-121117/tree/master/03_oo_relations)
+4. [Object Oriented Relationships, Many to Many](https://youtu.be/PC_QNVbT6To) | [Code](https://github.com/learn-co-students/web-121117/tree/master/04_more_relations_many)
