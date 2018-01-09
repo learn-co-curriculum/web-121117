@@ -5,4 +5,4 @@
 5. [Inheritance](https://youtu.be/rRIMo7ambpI) | [Code](https://github.com/learn-co-students/web-121117/tree/master/05_inheritance)
 6. [SQL in Ruby](https://youtu.be/FEN8K6dy2lw) | [Code](https://github.com/learn-co-students/web-121117/tree/master/06_sql_in_ruby)
 7. [Active Record](https://www.youtube.com/watch?v=vloTip6iQT0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/09_active_record/active-record-fun)
-12. [Sinatra MVC]() | [Code](https://github.com/learn-co-students/web-121117/tree/master/12_sinatra_mvc/restaurant)
+12. [Sinatra MVC](https://www.youtube.com/watch?v=FUxz2vBa_QA&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-121117/tree/master/12_sinatra_mvc/restaurant)
