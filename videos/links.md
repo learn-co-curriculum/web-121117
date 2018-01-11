@@ -8,3 +8,4 @@
 
 ## Module 2
 12. [Sinatra MVC](https://www.youtube.com/watch?v=FUxz2vBa_QA&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-121117/tree/master/12_sinatra_mvc/restaurant)
+13. [Sinatra w/Associations](https://youtu.be/8qx3opm7REg) | [Code](https://github.com/learn-co-students/web-121117/tree/master/14_more_sinatra/badreads)
