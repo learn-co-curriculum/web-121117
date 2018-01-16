@@ -10,4 +10,4 @@
 12. [Sinatra MVC](https://www.youtube.com/watch?v=FUxz2vBa_QA&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-121117/tree/master/12_sinatra_mvc/restaurant)
 13. [Sinatra w/Associations](https://youtu.be/8qx3opm7REg) | [Code](https://github.com/learn-co-students/web-121117/tree/master/14_more_sinatra/badreads)
 14. [RAILS!!!](https://youtu.be/1qmHonZTbl0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/15_rails)
-15. [RESTful Routes at the Owl Cave Sushi Cafe](#) | [Code](https://github.com/meryldakin/restful_routes/tree/workshop)
+15. [RESTful Routes at the Owl Cave Sushi Cafe](https://youtu.be/vE97XABHMkE) | [Code](https://github.com/meryldakin/restful_routes/tree/workshop)
