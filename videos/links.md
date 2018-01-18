@@ -11,5 +11,7 @@
 13. [Sinatra w/Associations](https://youtu.be/8qx3opm7REg) | [Code](https://github.com/learn-co-students/web-121117/tree/master/14_more_sinatra/badreads)
 14. [RAILS!!!](https://youtu.be/1qmHonZTbl0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/15_rails)
 15. [RESTful Routes at the Owl Cave Sushi Cafe](https://youtu.be/vE97XABHMkE) | [Code](https://github.com/meryldakin/restful_routes/tree/workshop)
-16. [Rails Forms](https://www.youtube.com/edit?o=U&video_id=ejudkxHQ4Ns) | [Code](https://github.com/learn-co-students/web-121117/tree/master/16_rails_forms/pastry_shop)
+16. [Rails Forms](https://youtu.be/ejudkxHQ4Ns) | [Code](https://github.com/learn-co-students/web-121117/tree/master/16_rails_forms/pastry_shop)
 17. [Rails Form Validations](https://youtu.be/I_FBuK5XxZA) | [Code](https://github.com/learn-co-students/web-121117/tree/master/17_rails_validations/pastry_shop)
+18. [Rails Relationships: has_many/belongs_to](https://youtu.be/FrXjK9M9FfM) | [Code](https://github.com/learn-co-students/web-121117/tree/master/18_rails_associations/liquor_store)
+19. [Rails Relationships: has_many_through](https://youtu.be/DB52h0ovgps) | [Code](https://github.com/learn-co-students/web-121117/tree/master/19_rails_associations_has_many/gym)
