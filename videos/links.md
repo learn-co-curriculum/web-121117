@@ -16,3 +16,9 @@
 18. [Rails Relationships: has_many/belongs_to](https://youtu.be/FrXjK9M9FfM) | [Code](https://github.com/learn-co-students/web-121117/tree/master/18_rails_associations/liquor_store)
 19. [Rails Relationships: has_many_through](https://youtu.be/DB52h0ovgps) | [Code](https://github.com/learn-co-students/web-121117/tree/master/19_rails_associations_has_many/gym)
 20. [Testing!](https://youtu.be/Q5ZFVeD6RaQ) | [Code](https://github.com/learn-co-students/web-121117/tree/master/22_testing_in_ruby)
+
+
+
+## Module 3 
+21. [Intro to JavaScript](https://youtu.be/AZuC_JxVeDU)
+22. [Intro to Functional Programming](https://youtu.be/PdrAThwK9m4)
