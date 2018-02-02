@@ -22,3 +22,4 @@
 ## Module 3 
 21. [Intro to JavaScript](https://youtu.be/AZuC_JxVeDU)
 22. [Intro to Functional Programming](https://youtu.be/PdrAThwK9m4)
+23. [Intro to DOM](https://youtu.be/F5Eiug0bm2Y)
