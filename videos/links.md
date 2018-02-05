@@ -19,7 +19,9 @@
 
 
 
-## Module 3 
+## Module 3
 21. [Intro to JavaScript](https://youtu.be/AZuC_JxVeDU)
 22. [Intro to Functional Programming](https://youtu.be/PdrAThwK9m4)
-23. [Intro to DOM](https://youtu.be/F5Eiug0bm2Y)
+23. [Object Oriented JavaScript](https://youtu.be/P45Lfc5FBo8) | [Code](https://github.com/learn-co-students/web-121117/tree/master/24_js_oo)
+24. [Intro to DOM](https://youtu.be/F5Eiug0bm2Y) |
+25. [JavaScript Events](https://youtu.be/Wvt6cj87vYQ) | [Code](https://github.com/learn-co-students/web-121117/tree/master/27_events)
