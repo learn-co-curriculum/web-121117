@@ -20,8 +20,12 @@
 
 
 ## Module 3
-21. [Intro to JavaScript](https://youtu.be/AZuC_JxVeDU)
-22. [Intro to Functional Programming](https://youtu.be/PdrAThwK9m4)
+21. [Intro to JavaScript](https://youtu.be/AZuC_JxVeDU) | [Code](https://github.com/learn-co-students/web-121117/tree/master/22_js_intro)
+22. [Intro to Functional Programming](https://youtu.be/PdrAThwK9m4) | [Code](https://github.com/learn-co-students/web-121117/tree/master/23_js_functional)
 23. [Object Oriented JavaScript](https://youtu.be/P45Lfc5FBo8) | [Code](https://github.com/learn-co-students/web-121117/tree/master/24_js_oo)
-24. [Intro to DOM](https://youtu.be/F5Eiug0bm2Y) |
-25. [JavaScript Events](https://youtu.be/Wvt6cj87vYQ) | [Code](https://github.com/learn-co-students/web-121117/tree/master/27_events)
+24. [This & Bind/Call/Apply](https://youtu.be/G_mcR956TPA)
+25. [Intro to DOM](https://youtu.be/F5Eiug0bm2Y) | [Code](https://github.com/learn-co-students/web-121117/tree/master/26_dom)
+26. [JavaScript Events](https://youtu.be/Wvt6cj87vYQ) | [Code](https://github.com/learn-co-students/web-121117/tree/master/27_events)
+27. [Fetch & AJAX](https://www.youtube.com/watch?v=x14065Qwo00&index=6&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C)
+28. [Organization SPAs](https://youtu.be/4Bd42XX_Pl0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/29_organization)
+29. [Organization SPAs Workshop](https://youtu.be/DUOOLFqaIfc) | [Code](https://github.com/learn-co-students/web-121117/tree/master/30_organization_pt2)
