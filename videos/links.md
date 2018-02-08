@@ -29,4 +29,4 @@
 27. [Fetch & AJAX](https://www.youtube.com/watch?v=x14065Qwo00&index=6&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C)
 28. [Organization SPAs](https://youtu.be/4Bd42XX_Pl0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/29_organization)
 29. [Organization SPAs Workshop](https://youtu.be/DUOOLFqaIfc) | [Code](https://github.com/learn-co-students/web-121117/tree/master/30_organization_pt2)
-30. [JS Frontend + Rails Backend Part 1](https://www.youtube.com/edit?o=U&video_id=sFyn9RjU6l0) | [JS Frontend + Rails Backend Part 1.5](https://www.youtube.com/edit?o=U&video_id=2uvQegy2XZo) [Part 2](https://youtu.be/9YMzbHBrip4) | [Code](https://github.com/learn-co-students/web-121117/tree/master/31-js)
+30. [JS Frontend + Rails Backend Part 1](https://www.youtube.com/edit?o=U&video_id=sFyn9RjU6l0) | [Part 1.5](https://www.youtube.com/edit?o=U&video_id=2uvQegy2XZo) | [Part 2](https://youtu.be/9YMzbHBrip4) | [Code](https://github.com/learn-co-students/web-121117/tree/master/31-js)
