@@ -30,3 +30,6 @@
 28. [Organization SPAs](https://youtu.be/4Bd42XX_Pl0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/29_organization)
 29. [Organization SPAs Workshop](https://youtu.be/DUOOLFqaIfc) | [Code](https://github.com/learn-co-students/web-121117/tree/master/30_organization_pt2)
 30. [JS Frontend + Rails Backend Part 1](https://youtu.be/sFyn9RjU6l0) | [Part 1.5](https://youtu.be/2uvQegy2XZo) | [Part 2](https://youtu.be/9YMzbHBrip4) | [Code](https://github.com/learn-co-students/web-121117/tree/master/31-js)
+
+## Module 4
+31. [Intro to React](https://youtu.be/Z0e97DfAe4E) | [Code](https://github.com/learn-co-students/web-121117/tree/master/32-intro-react)
