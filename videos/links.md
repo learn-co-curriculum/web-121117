@@ -33,3 +33,4 @@
 
 ## Module 4
 31. [Intro to React](https://youtu.be/Z0e97DfAe4E) | [Code](https://github.com/learn-co-students/web-121117/tree/master/32-intro-react)
+32. [States, Events, & Forms](https://youtu.be/BwwrbsvPjm0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/33-state-events-forms/tasklister)
