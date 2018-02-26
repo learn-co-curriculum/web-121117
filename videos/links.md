@@ -38,7 +38,7 @@
 32. [Props and State 1](https://www.youtube.com/watch?v=j3y2_CQZXVM&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=10) | [Props and State 2](https://www.youtube.com/watch?v=8VCS8O-efOM&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=11)
 33. [States, Events, & Forms](https://youtu.be/BwwrbsvPjm0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/33-state-events-forms/tasklister)
 33. [Hogs Review](https://youtu.be/WqfUO04CeQQ)
-34. [Component Lifecycle](https://www.youtube.com/watch?v=_geBNdn0M70&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=14)
+34. [Component Lifecycle](https://www.youtube.com/watch?v=_geBNdn0M70&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=14) | [Code](https://github.com/sbal13/component-lifecycle-lecture-web-121117)
 
 ## Resources
 
