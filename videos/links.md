@@ -39,6 +39,7 @@
 33. [States, Events, & Forms](https://youtu.be/BwwrbsvPjm0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/33-state-events-forms/tasklister)
 33. [Hogs Review](https://youtu.be/WqfUO04CeQQ)
 34. [Component Lifecycle](https://www.youtube.com/watch?v=_geBNdn0M70&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=14) | [Code](https://github.com/sbal13/component-lifecycle-lecture-web-121117)
+35. [React Router](https://youtu.be/hMlBe2Ye7h4) | [Code](https://github.com/learn-co-students/web-121117/tree/master/34-react-router/pokemon-pals)
 
 ## Resources
 
