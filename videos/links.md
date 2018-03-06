@@ -42,6 +42,7 @@
 35. [React Router](https://youtu.be/hMlBe2Ye7h4) | [Code](https://github.com/learn-co-students/web-121117/tree/master/34-react-router/pokemon-pals)
 36. [Auth Theory Review](https://youtu.be/JIPStljZ84E) | [Notes](https://github.com/learn-co-students/web-121117/tree/master/35-react-auth) | Code OTW
 37. [Recursion & Big O Notation](https://youtu.be/EWxfy3ax8dg)
+38. [Higher-Order Functions/Components](https://youtu.be/_AIwy9yzVg0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/37-hoc) (Readme in the frontend code)
 
 ## Resources
 
