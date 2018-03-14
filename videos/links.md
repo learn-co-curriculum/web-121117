@@ -43,9 +43,11 @@
 36. [Auth Theory Review](https://youtu.be/JIPStljZ84E) | [Notes](https://github.com/learn-co-students/web-121117/tree/master/35-react-auth) | Code OTW
 37. [Recursion & Big O Notation](https://youtu.be/EWxfy3ax8dg)
 38. [Higher-Order Functions/Components](https://youtu.be/_AIwy9yzVg0) | [Code](https://github.com/learn-co-students/web-121117/tree/master/37-hoc) (Readme in the frontend code)
-39. Redux pt. 1 (coming soon!)
-40.[Redux pt. 2: The 20th Annual Miss Twin Peaks Contest](https://www.youtube.com/watch?v=tMjM8yT15GU&feature=youtu.be) | [Code](https://github.com/meryldakin/miss-twin-peaks)
-41. [Redux Thunk](https://www.youtube.com/watch?v=8DDx2o-pHvg&feature=youtu.be) | [Code](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Github Code](https://github.com/learn-co-students/web-121117/tree/master/38-thunk/booksapp)
+39. [Redux Intro](#)
+40.[Redux: Adding Redux to a React App -- The 20th Annual Miss Twin Peaks Contest](https://www.youtube.com/watch?v=tMjM8yT15GU&feature=youtu.be) | [Code](https://github.com/meryldakin/miss-twin-peaks)
+41. [Redux: Building a React-Redux App from scratch part 1 -- The Greek Dogs of Redux](https://www.youtube.com/watch?v=zQ5MokNDQOk&t=0s&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=17)
+42. [Redux: Building a React-Redux App from scratch part 2 -- The Greek Dogs of Redux](https://www.youtube.com/watch?v=bnExeH_9Af8&feature=youtu.be)
+42. [Redux: Thunk](https://www.youtube.com/watch?v=8DDx2o-pHvg&feature=youtu.be) | [Code](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Github Code](https://github.com/learn-co-students/web-121117/tree/master/38-thunk/booksapp)
 
 ## Resources
 
